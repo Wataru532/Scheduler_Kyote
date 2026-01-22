@@ -1,4 +1,7 @@
-# Scheduler 共通テスト演習 Version Log
+# Scheduler 共通テスト演習 - 二次講習 Version Log
+
+### v1.0.0 (2026/1/22)
+二次講習用のScheduler始動。
 
 ### v0.0.18 (2026/1/1)
 ページが正しく表示されない問題を修正。
