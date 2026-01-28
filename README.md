@@ -2,10 +2,6 @@
 Schedulerの公開版（安定版）です。毎日の時間割を個人に最適化して管理することができます。<br>
 一回のユーザー登録で簡単に使用可能。[使ってみる](https://Scheduler532.github.io/Schedular)
 
-# Scheduler 共通テスト演習
-共通テスト演習の時間割表示用の特別版Schedulerです。通常版とは異なり、使用するテキストの表示も可能です。<br>
-[使ってみる](https://wataru532.github.io/Scheduler_Kyote)
-
 # Scheduler Dev
 [Schedulerの開発版](https://wataru532.github.io/Scheduler-dev/)です。ベータ版を公開しています。<br>
 アップデート内容は[ここ](https://github.com/Wataru532/Scheduler-dev/blob/gh-pages/version.md)で見られます。
@@ -23,4 +19,4 @@ Scheduler v0.0.1を移植し、その後必要な機能を独自で追加して�
 # Creators
 これらのSchdulerプロジェクトは[Scheduler532](https://github.com/Scheduler532/)と[Wataru532](https://github.com/Wataru532/)によって進められている。
 
-© 2024-2025 Scheduler532 and Wataru532
+© 2024-2026 Scheduler532 and Wataru532
